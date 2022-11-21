@@ -19,14 +19,14 @@ My name's Letícia Chaves and I'm from Brazil!
 
 Currently studying web development and data science! :desktop_computer:
 
-I'm formally an art educator and visual artist so I'm always looking for a way to spread knowledge in a meaningful way. :art:🌱
+I'm formally an art educator and visual artist so I'm always looking for a way to spread knowledge in a meaningful way. :art:
 
-- I'm currently a:
-:bar_chart: Business Intelligence & Data Science postgraduate student.
-:computer: Web development student.
+🌱 I'm currently a:
+- :bar_chart: Business Intelligence & Data Science postgraduate student.
+- :computer: Web development student.
 - :paperclip: Techs & tools: Python, JavaScript, SQL, HTML, CSS, Databricks.
-- 📫 How to reach me:
-:envelope_with_arrow: leticiaschaves7@gmail.com
-:paperclip: [LinkedIn](linkedin.com/in/leticiaschaves).
+📫 How to reach me:
+- :envelope_with_arrow: leticiaschaves7@gmail.com
+- :paperclip: [LinkedIn](linkedin.com/in/leticiaschaves).
 
 
