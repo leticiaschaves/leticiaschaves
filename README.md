@@ -19,11 +19,11 @@ My name's Letícia Chaves, I'm from Brazil!
 
 I'm formally an art educator and visual artist so I'm always looking foward to spread knowledge in a fun and meaningful way. :art:
 
+:paperclip: Techs & tools: Python, JavaScript, SQL, HTML, CSS, Databricks.
+
 🌱 I'm currently a:
 - :bar_chart: Business Intelligence & Data Science postgraduate student.
 - :computer: Web development student.
-
-- :paperclip: Techs & tools: Python, JavaScript, SQL, HTML, CSS, Databricks.
 
 📫 How to reach me:
 - :envelope_with_arrow: leticiaschaves7@gmail.com
