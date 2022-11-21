@@ -22,6 +22,7 @@ I'm formally an art educator and visual artist so I'm always looking foward to s
 🌱 I'm currently a:
 - :bar_chart: Business Intelligence & Data Science postgraduate student.
 - :computer: Web development student.
+
 - :paperclip: Techs & tools: Python, JavaScript, SQL, HTML, CSS, Databricks.
 
 📫 How to reach me:
