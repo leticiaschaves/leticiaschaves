@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 My name's Letícia Chaves, I'm from Brazil!
 
-I'm formally an art educator and visual artist so I'm always looking for a way to spread knowledge in a meaningful way. :art:
+I'm formally an art educator and visual artist so I'm always looking for a way to spread knowledge in a fun and meaningful way. :art:
 
 🌱 I'm currently a:
 - :bar_chart: Business Intelligence & Data Science postgraduate student.
