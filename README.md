@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 👋
 -->
-My name's Letícia Chaves and I'm from Brazil!
-
-Currently studying web development and data science! :desktop_computer:
+My name's Letícia Chaves, I'm from Brazil!
 
 I'm formally an art educator and visual artist so I'm always looking for a way to spread knowledge in a meaningful way. :art:
 
