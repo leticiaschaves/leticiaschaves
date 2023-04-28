@@ -1,4 +1,4 @@
-### Hello world!
+### Hi!
 
 <!--
 **leticiaschaves/leticiaschaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 👋
 -->
-My name's Letícia Chaves, I'm from Brazil!
-
 I'm formally an art educator and visual artist so I'm always looking foward to spread knowledge in a fun and meaningful way. :art:
 
 :paperclip: Techs & tools: Python, JavaScript, SQL, HTML, CSS, Databricks.
