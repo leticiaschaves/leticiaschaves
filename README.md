@@ -19,10 +19,6 @@ I'm formally an art educator and visual artist so I'm always looking foward to s
 
 :paperclip: Techs & tools: Python, JavaScript, SQL, HTML, CSS, Databricks.
 
-🌱 I'm currently a:
-- :bar_chart: Business Intelligence & Data Science postgraduate student.
-- :computer: Web development student.
-
 📫 How to reach me:
 - :envelope_with_arrow: leticiaschaves7@gmail.com
 - :paperclip: [LinkedIn](linkedin.com/in/leticiaschaves).
